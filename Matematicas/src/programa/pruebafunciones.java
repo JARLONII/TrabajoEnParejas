@@ -8,7 +8,7 @@ public class pruebafunciones {
 		// esCapicua ///////////////////////////////////////////////////
 
 	    if (esCapicua(29)) {
-	      System.out.println("El 29 es triste");
+	      System.out.println("El 29 es tristISIMO");
 	    }
 
 	    if (esCapicua(464)) {
