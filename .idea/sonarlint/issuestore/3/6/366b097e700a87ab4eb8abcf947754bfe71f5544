@@ -1,0 +1,30 @@
+
+E
+java:S1066"/Merge this if statement with the enclosing one.(¤Äšª
+J
+java:S1066"/Merge this if statement with the enclosing one.(ÿûøÿÿÿÿ
+J
+java:S1066"/Merge this if statement with the enclosing one.(ó­‘éùÿÿÿÿ
+J
+java:S1066%"/Merge this if statement with the enclosing one.(ıÆÎÕûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–ª™ıÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(–ª™ıÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ê­²üÿÿÿÿ
+=
+java:S1659:""Declare "cont" on a separate line.( íéÊøÿÿÿÿ
+A
+java:S1481:"&Remove this unused "a" local variable.( íéÊøÿÿÿÿ
+D
+java:S1481:")Remove this unused "cont" local variable.( íéÊøÿÿÿÿ
+5
+java:S1659K"Declare "a" on a separate line.(Ñº•
+?
+java:S1659`"$Declare "numero" on a separate line.(æç†Üúÿÿÿÿ
+Y
+java:S1659m">Declare "a" and all following declarations on a separate line.(”¯Ù§øÿÿÿÿ
+>
+java:S1659ª"'Declare "resultado" on a separate line.(šç‚
+\
+java:S1659¸"EDeclare "auxiliar" and all following declarations on a separate line.(ò§ÂÑ

@@ -8,11 +8,11 @@ public class pruebafunciones {
 		// esCapicua ///////////////////////////////////////////////////
 
 	    if (esCapicua(29)) {
-	      System.out.println("El 29 es capicúa");
+	      System.out.println("El 29 es triste");
 	    }
 
 	    if (esCapicua(464)) {
-	      System.out.println("El 464 es capicúa");
+	      System.out.println("El 464 javier gear5");
 	    }
 
 	    // esPrimo /////////////////////////////////////////////////////
